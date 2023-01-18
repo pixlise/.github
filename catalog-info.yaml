@@ -15,5 +15,5 @@ metadata:
     lighthouse.com/website-url: https://pixlise.org
 spec:
   type: website
-  owner: pixlise
+  owner: guests
   lifecycle: experimental
