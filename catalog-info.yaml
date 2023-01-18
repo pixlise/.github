@@ -1,0 +1,19 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: pixlise-github
+  description: |
+    The core repo on the pixlise github account.
+  links:
+    - title: Website
+      url: https://pixlise.org
+    - title: Documentation
+      url: https://pixlise.gitbook.io/
+  annotations:
+    github.com/project-slug: pixlise/.github
+    backstage.io/techdocs-ref: dir:.
+    lighthouse.com/website-url: https://pixlise.org
+spec:
+  type: website
+  owner: pixlise
+  lifecycle: experimental
