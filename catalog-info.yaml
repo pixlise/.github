@@ -13,7 +13,7 @@ metadata:
     github.com/project-slug: pixlise/.github
     backstage.io/techdocs-ref: dir:.
     lighthouse.com/website-url: https://pixlise.org
-    sentry.io/pixlise
+    sentry.io/project-slug: pixlise
 spec:
   type: website
   owner: guests
