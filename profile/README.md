@@ -3,7 +3,7 @@
 ### What is Pixlise?
 
 Pixlise is a platform for analyzing spectroscopy data. Originally designed for use with data from the Pixl instrument
-which flies on the Mars Rover Perserverance, but has been designed with other instruments in mind.
+which flies on the Mars Rover Perseverance, but has been designed with other instruments in mind.
 
 PIXLISE is live at https://www.pixlise.org
 
